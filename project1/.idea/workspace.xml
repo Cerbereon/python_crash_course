@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="voting.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/chapter 5/voting.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="toppings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/chapter 5/toppings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <state relative-caret-position="-830">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,12 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/chapter 2/apostrophe.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/personal_message.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/name_cases.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.5_famous_quote.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.6_famous_quote.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.7_stripping_names.py" />
         <option value="$PROJECT_DIR$/venv/chapter 2/birthday.py" />
         <option value="$PROJECT_DIR$/venv/chapter 2/2.8_number_eight.py" />
         <option value="$PROJECT_DIR$/venv/chapter 2/2.9_favorite_number.py" />
@@ -79,11 +73,17 @@
         <option value="$PROJECT_DIR$/venv/chapter 4/4.11_my_pizzas_your_pizzas.py" />
         <option value="$PROJECT_DIR$/venv/chapter 4/4.10_slices.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/cars.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 5/toppings.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/banned_users.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/5.1_conditional_tests.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/5.2_more_conditional_tests.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/voting.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/amusment_park.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.3_alien_colors_1.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.4_alien_colors_2.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.5_alien_colors_3.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.6_stages_of_life.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.7_favorite_fruit.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/toppings.py" />
       </list>
     </option>
   </component>
@@ -124,8 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,15 +144,6 @@
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="chapter 5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (project1) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,6 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/INNER-DRIVE/Studying/Programming/python_crash_course/project1/venv/chapter 5/5.7_favorite_fruit.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -181,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.voting">
-    <configuration name="5.1_conditional_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.toppings">
+    <configuration name="5.4_alien_colors_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,13 +186,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.1_conditional_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.4_alien_colors_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5.2_more_conditional_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.5_alien_colors_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,13 +204,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.2_more_conditional_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.5_alien_colors_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="banned_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.6_stages_of_life" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -230,7 +222,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/banned_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.6_stages_of_life.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="5.7_favorite_fruit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.7_favorite_fruit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,38 +264,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="voting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/voting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.toppings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.banned_users" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5.1_conditional_tests" />
-      <item index="3" class="java.lang.String" itemvalue="Python.5.2_more_conditional_tests" />
-      <item index="4" class="java.lang.String" itemvalue="Python.voting" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5.4_alien_colors_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.5.5_alien_colors_3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5.6_stages_of_life" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5.7_favorite_fruit" />
+      <item index="4" class="java.lang.String" itemvalue="Python.toppings" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.voting" />
-        <item index="1" class="java.lang.String" itemvalue="Python.5.2_more_conditional_tests" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5.1_conditional_tests" />
-        <item index="3" class="java.lang.String" itemvalue="Python.banned_users" />
-        <item index="4" class="java.lang.String" itemvalue="Python.toppings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.toppings" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5.7_favorite_fruit" />
+        <item index="2" class="java.lang.String" itemvalue="Python.5.6_stages_of_life" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.5_alien_colors_3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5.4_alien_colors_2" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +306,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3099631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3099631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -336,42 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/name_cases.py" />
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/birthday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.8_number_eight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.9_favorite_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.7_stripping_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.6_famous_quote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.5_famous_quote.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -637,15 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 5/toppings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,14 +614,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 5/voting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/amusment_park.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.3_alien_colors_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.4_alien_colors_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.5_alien_colors_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.6_stages_of_life.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.7_favorite_fruit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/toppings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
