@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="toppings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/chapter 5/toppings.py">
+      <file leaf-file-name="5.11_ordinal_numbers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.11_ordinal_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-830">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="245">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -33,10 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/chapter 2/birthday.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.8_number_eight.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.9_favorite_number.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 2/2.3_personal_message.py" />
         <option value="$PROJECT_DIR$/venv/chapter 2/2.10_adding_comments.py" />
         <option value="$PROJECT_DIR$/venv/chapter 2/2.11_the_zen_of_python.py" />
         <option value="$PROJECT_DIR$/venv/chapter 3/bicycles.py" />
@@ -84,6 +80,10 @@
         <option value="$PROJECT_DIR$/venv/chapter 5/5.6_stages_of_life.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/5.7_favorite_fruit.py" />
         <option value="$PROJECT_DIR$/venv/chapter 5/toppings.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.8_hello_admin.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.9_no_users.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.10_checking_usernames.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 5/5.11_ordinal_numbers.py" />
       </list>
     </option>
   </component>
@@ -173,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.toppings">
-    <configuration name="5.4_alien_colors_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5.11_ordinal_numbers">
+    <configuration name="5.10_checking_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,13 +186,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.4_alien_colors_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.10_checking_usernames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5.5_alien_colors_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.11_ordinal_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,13 +204,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.5_alien_colors_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.11_ordinal_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5.6_stages_of_life" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.8_hello_admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -222,13 +222,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.6_stages_of_life.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.8_hello_admin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5.7_favorite_fruit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.9_no_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,7 +240,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.7_favorite_fruit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 5/5.9_no_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,19 +265,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5.4_alien_colors_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5.5_alien_colors_3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5.6_stages_of_life" />
-      <item index="3" class="java.lang.String" itemvalue="Python.5.7_favorite_fruit" />
-      <item index="4" class="java.lang.String" itemvalue="Python.toppings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.toppings" />
+      <item index="1" class="java.lang.String" itemvalue="Python.5.8_hello_admin" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5.9_no_users" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5.10_checking_usernames" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5.11_ordinal_numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.toppings" />
-        <item index="1" class="java.lang.String" itemvalue="Python.5.7_favorite_fruit" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5.6_stages_of_life" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5.5_alien_colors_3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5.4_alien_colors_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5.11_ordinal_numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5.10_checking_usernames" />
+        <item index="2" class="java.lang.String" itemvalue="Python.5.9_no_users" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.8_hello_admin" />
+        <item index="4" class="java.lang.String" itemvalue="Python.toppings" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +306,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3099631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3099631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -328,41 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.5_famous_quote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.3_personal_message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.4_name_cases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.10_adding_comments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 2/2.11_the_zen_of_python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -409,13 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 3/3.5_changing_guest_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="27" column="66" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="27" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -496,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.4_one_million.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.5_summing_a_million.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -517,25 +468,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.7_threes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 4/3.8_cubes.py" />
     <entry file="file://$PROJECT_DIR$/venv/chapter 4/players.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.9_cube_comperhension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -561,24 +498,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.11_my_pizzas_your_pizzas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.12_more_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.10_slices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -673,10 +596,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.8_hello_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="79" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 3/3.5_changing_guest_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.4_one_million.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.7_threes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.8_cubes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.9_cube_comperhension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.10_slices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.11_my_pizzas_your_pizzas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.9_no_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 5/toppings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-830">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.10_checking_usernames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.11_ordinal_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
