@@ -1,2 +1,8 @@
-message = input("Tell me somthing and I will repeat it back to you: ")
-print(message)
+prompt = "\nTell me somthing and I will repeat it back to you: "
+prompt += "\nEnter 'quit' to exit. "
+
+message = ""
+while message != 'quit':
+    message = input(prompt)
+    if message != 'quit':
+        print(message)
