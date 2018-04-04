@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="counting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/chapter 7/counting.py">
+      <file leaf-file-name="7.7_infinity.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.7_infinity.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="225">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parrot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/chapter 7/parrot.py">
+      <file leaf-file-name="7.5_movie_tickets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.5_movie_tickets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="75">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -43,11 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/chapter 4/4.9_cube_comperhension.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 4/players.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 4/foods.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 4/4.11_pizzas.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 4/4.12_more_loops.py" />
         <option value="$PROJECT_DIR$/venv/chapter 4/dimensions.py" />
         <option value="$PROJECT_DIR$/venv/chapter 4/4.13_buffet.py" />
         <option value="$PROJECT_DIR$/venv/chapter 4/4.11_my_pizzas_your_pizzas.py" />
@@ -92,8 +87,13 @@
         <option value="$PROJECT_DIR$/venv/chapter 7/7.1_rental_car.py" />
         <option value="$PROJECT_DIR$/venv/chapter 7/7.2_restaurant_seating.py" />
         <option value="$PROJECT_DIR$/venv/chapter 7/7.3_multiples_of_ten.py" />
-        <option value="$PROJECT_DIR$/venv/chapter 7/counting.py" />
         <option value="$PROJECT_DIR$/venv/chapter 7/parrot.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/cities.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/counting.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/7.4_pizza_toppings.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/7.5_movie_tickets.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/7.6_three_exits.py" />
+        <option value="$PROJECT_DIR$/venv/chapter 7/7.7_infinity.py" />
       </list>
     </option>
   </component>
@@ -134,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -167,6 +166,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,8 +192,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.parrot">
-    <configuration name="7.1_rental_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.7.7_infinity">
+    <configuration name="7.4_pizza_toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,13 +205,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.1_rental_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.4_pizza_toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="7.2_restaurant_seating" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.5_movie_tickets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,13 +223,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.2_restaurant_seating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.5_movie_tickets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="7.3_multiples_of_ten" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.6_three_exits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -241,7 +241,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.3_multiples_of_ten.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.6_three_exits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="7.7_infinity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/7.7_infinity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,38 +283,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="parrot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="project1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter 7/parrot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.7.1_rental_car" />
-      <item index="1" class="java.lang.String" itemvalue="Python.7.2_restaurant_seating" />
-      <item index="2" class="java.lang.String" itemvalue="Python.7.3_multiples_of_ten" />
-      <item index="3" class="java.lang.String" itemvalue="Python.counting" />
-      <item index="4" class="java.lang.String" itemvalue="Python.parrot" />
+      <item index="0" class="java.lang.String" itemvalue="Python.counting" />
+      <item index="1" class="java.lang.String" itemvalue="Python.7.4_pizza_toppings" />
+      <item index="2" class="java.lang.String" itemvalue="Python.7.5_movie_tickets" />
+      <item index="3" class="java.lang.String" itemvalue="Python.7.6_three_exits" />
+      <item index="4" class="java.lang.String" itemvalue="Python.7.7_infinity" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.parrot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.counting" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7.3_multiples_of_ten" />
-        <item index="3" class="java.lang.String" itemvalue="Python.7.2_restaurant_seating" />
-        <item index="4" class="java.lang.String" itemvalue="Python.7.1_rental_car" />
+        <item index="0" class="java.lang.String" itemvalue="Python.7.7_infinity" />
+        <item index="1" class="java.lang.String" itemvalue="Python.7.6_three_exits" />
+        <item index="2" class="java.lang.String" itemvalue="Python.7.5_movie_tickets" />
+        <item index="3" class="java.lang.String" itemvalue="Python.7.4_pizza_toppings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.counting" />
       </list>
     </recent_temporary>
   </component>
@@ -346,41 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.12_more_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 4/4.13_buffet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 5/cars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 5/banned_users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.1_conditional_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 5/5.2_more_conditional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -638,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,22 +645,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/parrot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/chapter 7/counting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="150">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/chapter 7/parrot.py">
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.4_pizza_toppings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="17" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.6_three_exits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.5_movie_tickets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/chapter 7/7.7_infinity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
