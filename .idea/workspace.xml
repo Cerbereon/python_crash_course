@@ -11,29 +11,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="greeter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/greeter.py">
+      <file leaf-file-name="person.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/person.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.1_message.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.1_message.py">
+      <file leaf-file-name="8.7_album.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.7_album.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.2_favorite_book.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.2_favorite_book.py">
+      <file leaf-file-name="8.8_user_album.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -60,9 +60,18 @@
         <option value="$PROJECT_DIR$/project1/venv/chapter 7/7.9_no_pastarami.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 7/7.9_no_pastrami.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 7/7.10_dream_vacation.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/greeter.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.1_message.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.2_favorite_book.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/pets.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.3_t-shirt.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.4_large_shirts.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.5_cities.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/formatted_name.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/person.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/greeter.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.6_city_names.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.7_album.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py" />
       </list>
     </option>
   </component>
@@ -125,44 +134,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8.2_favorite_book">
-    <configuration name="7.10_dream_vacation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_crash_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project1/venv/chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 7/7.10_dream_vacation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="7.9_no_pastrami" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_crash_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project1/venv/chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 7/7.9_no_pastrami.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="8.1_message" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.8.8_user_album">
+    <configuration name="8.6_city_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,13 +147,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/8.1_message.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/8.6_city_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8.2_favorite_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.7_album" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +165,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/8.2_favorite_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/8.7_album.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="8.8_user_album" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_crash_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project1/venv/chapter 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,20 +207,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_crash_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project1/venv/chapter 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.7.9_no_pastrami" />
-      <item itemvalue="Python.7.10_dream_vacation" />
+      <item itemvalue="Python.person" />
       <item itemvalue="Python.greeter" />
-      <item itemvalue="Python.8.1_message" />
-      <item itemvalue="Python.8.2_favorite_book" />
+      <item itemvalue="Python.8.6_city_names" />
+      <item itemvalue="Python.8.7_album" />
+      <item itemvalue="Python.8.8_user_album" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8.2_favorite_book" />
-        <item itemvalue="Python.8.1_message" />
+        <item itemvalue="Python.8.8_user_album" />
+        <item itemvalue="Python.8.7_album" />
+        <item itemvalue="Python.8.6_city_names" />
         <item itemvalue="Python.greeter" />
-        <item itemvalue="Python.7.10_dream_vacation" />
-        <item itemvalue="Python.7.9_no_pastrami" />
+        <item itemvalue="Python.person" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +257,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="927" height="1055" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25350595" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -336,13 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/greeter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.1_message.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -352,8 +353,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.2_favorite_book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="180">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/pets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.3_t-shirt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="67" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.4_large_shirts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.5_cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/formatted_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.6_city_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.7_album.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/greeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
