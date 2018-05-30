@@ -11,20 +11,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8.13_user_profile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.13_user_profile.py">
+      <file leaf-file-name="8.14_cars.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="425">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.14_cars.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py">
+      <file leaf-file-name="making_pizzas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printing_functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_functions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printing_models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -64,15 +82,17 @@
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.7_album.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/greet_users.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.9_magicians.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.10_great_magitians.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.11_unchanged_magicians.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/pizza.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/user_profile.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.12_sandwiches.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.13_user_profile.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/pizza.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.15_printing_models.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py" />
       </list>
     </option>
   </component>
@@ -135,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8.14_cars">
+  <component name="RunManager" selected="Python.printing_models">
     <configuration name="8.12_sandwiches" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,7 +210,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="making_pizzas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,13 +222,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="user_profile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="printing_models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,26 +240,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/user_profile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.pizza" />
-      <item itemvalue="Python.user_profile" />
       <item itemvalue="Python.8.12_sandwiches" />
       <item itemvalue="Python.8.13_user_profile" />
       <item itemvalue="Python.8.14_cars" />
+      <item itemvalue="Python.making_pizzas" />
+      <item itemvalue="Python.printing_models" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.printing_models" />
+        <item itemvalue="Python.making_pizzas" />
         <item itemvalue="Python.8.14_cars" />
         <item itemvalue="Python.8.13_user_profile" />
         <item itemvalue="Python.8.12_sandwiches" />
-        <item itemvalue="Python.user_profile" />
-        <item itemvalue="Python.pizza" />
       </list>
     </recent_temporary>
   </component>
@@ -465,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.10_great_magitians.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -483,13 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -514,10 +520,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
