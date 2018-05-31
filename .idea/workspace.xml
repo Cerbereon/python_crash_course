@@ -11,11 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="10_5_programming_poll.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_5_programming_poll.py">
+      <file leaf-file-name="10_10_text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_10_text.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            <state relative-caret-position="16079">
+              <caret line="2197" selection-start-line="2197" selection-end-line="2197" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_10_common_words.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_10_common_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -35,16 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.8_user_album.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/greet_users.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.9_magicians.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.10_great_magitians.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.11_unchanged_magicians.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/user_profile.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.12_sandwiches.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.13_user_profile.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 8/pizza.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/8.15_printing_models.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py" />
@@ -86,6 +85,16 @@
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_3_guest.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_4_guest_book.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_5_programming_poll.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/division.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/alice.txt" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/alice.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_6_addition.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/cats.txt" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/dogs.txt" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_8_cats_and_dogs.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_9_silent_cats_and_dogs.py" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_10_text.txt" />
+        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_10_common_words.py" />
       </list>
     </option>
   </component>
@@ -93,7 +102,7 @@
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="927" />
-    <option name="height" value="1053" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -148,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10_5_programming_poll">
-    <configuration name="10_2_learning_c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10_10_common_words">
+    <configuration name="10_10_common_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,13 +170,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_2_learning_c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_10_common_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="10_3_guest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_6_addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,13 +188,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_3_guest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_6_addition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="10_4_guest_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_8_cats_and_dogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,13 +206,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_4_guest_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_8_cats_and_dogs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="10_5_programming_poll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_9_silent_cats_and_dogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,13 +224,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_5_programming_poll.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/10_9_silent_cats_and_dogs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="write_message" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_crash_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,26 +242,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/write_message.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/venv/chapter 10/alice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.10_2_learning_c" />
-      <item itemvalue="Python.write_message" />
-      <item itemvalue="Python.10_3_guest" />
-      <item itemvalue="Python.10_4_guest_book" />
-      <item itemvalue="Python.10_5_programming_poll" />
+      <item itemvalue="Python.alice" />
+      <item itemvalue="Python.10_6_addition" />
+      <item itemvalue="Python.10_8_cats_and_dogs" />
+      <item itemvalue="Python.10_9_silent_cats_and_dogs" />
+      <item itemvalue="Python.10_10_common_words" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10_5_programming_poll" />
-        <item itemvalue="Python.10_4_guest_book" />
-        <item itemvalue="Python.10_3_guest" />
-        <item itemvalue="Python.write_message" />
-        <item itemvalue="Python.10_2_learning_c" />
+        <item itemvalue="Python.10_10_common_words" />
+        <item itemvalue="Python.10_9_silent_cats_and_dogs" />
+        <item itemvalue="Python.10_8_cats_and_dogs" />
+        <item itemvalue="Python.10_6_addition" />
+        <item itemvalue="Python.alice" />
       </list>
     </recent_temporary>
   </component>
@@ -270,13 +279,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="927" height="1053" extended-state="4" />
+    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23624596" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053936" side_tool="true" weight="0.32910052" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" visible="true" weight="0.32767764" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32910052" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" visible="true" weight="0.32698414" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,83 +299,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.11_unchanged_magicians.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.12_sandwiches.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/user_profile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.13_user_profile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/8.14_cars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/making_pizzas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 8/printing_models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 9/dog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 9/9.2_three_restaurants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -634,6 +573,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14445">
+          <caret line="3735" column="59" selection-start-line="3735" selection-start-column="59" selection-end-line="3735" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/alice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/dogs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/cats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_9_silent_cats_and_dogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_8_cats_and_dogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_6_addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_10_text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16079">
+          <caret line="2197" selection-start-line="2197" selection-end-line="2197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_10_common_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
