@@ -12,22 +12,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding>
-                <element signature="e#47#79#0" expanded="true" />
+                <element signature="e#39#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="289">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -35,41 +35,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="topic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_entry.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_entry.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="topics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topics.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -90,11 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_3_guest.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_4_guest_book.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_5_programming_poll.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 10/division.py" />
-        <option value="$PROJECT_DIR$/project1/venv/chapter 10/alice.txt" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/alice.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/10_6_addition.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 10/cats.txt" />
@@ -121,26 +104,31 @@
         <option value="$PROJECT_DIR$/project1/venv/chapter 11/test_survey.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 11/employee.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 11/test_employee.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/admin.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzeria/settings.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/admin.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/models.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/templates/pizzas/index.html" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/views.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzeria/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/index.html" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topics.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_topic.html" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/forms.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_entry.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/edit_entry.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/login.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/urls.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/urls.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/views.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/register.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html" />
       </list>
     </option>
   </component>
@@ -215,6 +203,33 @@
               <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_crash_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_crash_course" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_crash_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_crash_course" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_crash_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_crash_course" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,17 +376,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="927" height="1053" extended-state="4" />
+    <frame x="67" y="25" width="927" height="1053" extended-state="5" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23624596" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.48220065" side_tool="true" visible="true" weight="0.32979852" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.48220065" side_tool="true" visible="true" weight="0.32979852" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8295577" weight="0.32661718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5177994" visible="true" weight="0.32979852" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.5177994" visible="true" weight="0.32979852" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997879" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -387,41 +402,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_4_guest_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/write_message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/10_5_programming_poll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/alice.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14445">
-          <caret line="3735" column="59" selection-start-line="3735" selection-start-column="59" selection-end-line="3735" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/chapter 10/alice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -629,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -657,24 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -692,10 +651,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/edit_entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="83" column="68" selection-start-line="83" selection-start-column="68" selection-end-line="83" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#47#79#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -709,37 +709,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#636#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#39#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py">
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#47#79#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_entry.html">
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
     </entry>
