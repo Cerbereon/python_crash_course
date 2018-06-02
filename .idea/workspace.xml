@@ -23,13 +23,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/views.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="308">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -71,6 +83,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setting</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +122,6 @@
         <option value="$PROJECT_DIR$/project1/venv/chapter 11/employee.py" />
         <option value="$PROJECT_DIR$/project1/venv/chapter 11/test_employee.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/admin.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzeria/settings.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/admin.py" />
         <option value="$PROJECT_DIR$/project1/venv/projects/pizzeria/pizzas/models.py" />
@@ -118,21 +134,22 @@
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_topic.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/forms.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_entry.html" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/topic.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/edit_entry.html" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/urls.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/users/urls.py" />
-        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/views.py" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/users/templates/users/register.html" />
         <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/base.html" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/users/views.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py" />
+        <option value="$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="927" />
@@ -376,8 +393,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="927" height="1053" extended-state="5" />
-    <editor active="true" />
+    <frame x="67" y="25" width="927" height="1053" extended-state="4" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23624596" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -637,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/templates/learning_logs/new_topic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -669,16 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="83" column="68" selection-start-line="83" selection-start-column="68" selection-end-line="83" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,29 +725,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding>
             <element signature="e#39#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -764,6 +746,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/venv/learning_log/learning_logs/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
