@@ -9,4 +9,10 @@ from . import views
 urlpatterns = [
     # Home page
     url(r'^$', views.index, name='index'),
+
+    # Show all posts.
+    url(r'^posts/$', views.posts, name='posts'),
+
+    # Page for adding post
+    url(r'^new_post/$', views.new_post, name='new_post'),
 ]

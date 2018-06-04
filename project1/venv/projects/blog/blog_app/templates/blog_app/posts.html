@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% extends 'blog_app/base.html' %}
+
+    {% block content %}
+
+        <p>Posts</p>
+
+        <ul>
+            {% for post in posts %}
+                <li>
+                    <p>{{ post.date_added|date:'d M, Y H:i' }}</p>
+                    <p>{{ post.text|linebreaks }}</p>
+                </li>
+            {% empty %}
+                <li>No posts have been added yet.</li>
+            {% endfor %}
+        </ul>
+
+        <a href="{% url 'blog_app:new_post' %}">Add a new post:</a>
+
+    {% endblock content %}
+</body>
+</html>

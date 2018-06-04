@@ -5,6 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-    <p>Blog</p>
+    {% extends 'blog_app/base.html' %}
+
+    {% block content %}
+        <p>Use this blog to share your thoughts and read others thoughts.</p>
+    {% endblock content %}
 </body>
 </html>

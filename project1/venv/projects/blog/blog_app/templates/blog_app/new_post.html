@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% extends 'blog_app/base.html' %}
+
+    {% block content %}
+
+        <p>Add new post:</p>
+        <form action="{% url 'blog_app:new_post' %}" method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button name="submit">Add post</button>
+        </form>
+
+    {% endblock content %}
+</body>
+</html>
