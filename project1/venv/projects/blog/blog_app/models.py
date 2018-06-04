@@ -5,6 +5,7 @@ from django.db import models
 
 class Post(models.Model):
     '''Post which user post.'''
+    # title = models.CharField(max_length=50)
     text = models.TextField()
     date_added = models.DateTimeField(auto_now_add=True)
 
