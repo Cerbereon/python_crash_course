@@ -12,5 +12,9 @@ urlpatterns = [
         name='login'),
 
     # Logout page
-    url(r'^logout/$', views.logout_view, name='logout')
+    url(r'^logout/$', views.logout_view, name='logout'),
+
+    # Register
+
+    url(r'^register/$', views.register, name='register'),
 ]
