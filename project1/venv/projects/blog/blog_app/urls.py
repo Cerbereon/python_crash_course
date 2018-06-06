@@ -15,4 +15,8 @@ urlpatterns = [
 
     # Page for adding post
     url(r'^new_post/$', views.new_post, name='new_post'),
+
+    # Page for editing post
+    url(r'^edit_post/(?P<post_id>\d+)/$', views.edit_post,
+        name='edit_post'),
 ]
