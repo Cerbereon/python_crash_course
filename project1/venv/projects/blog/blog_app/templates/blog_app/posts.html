@@ -7,23 +7,31 @@
 <body>
     {% extends 'blog_app/base.html' %}
 
+    {% block header %}
+        <h1>Posts</h1>
+    {% endblock header %}
+
     {% block content %}
 
-        <p>Posts</p>
-
-        <ul>
             {% for post in posts %}
-                <li>
-                    <p>{{ post.date_added|date:'d M, Y H:i' }}</p>
-                    <p>{{ post.text|linebreaks }}</p>
-                    <p>
-                        <a href="{% url 'blog_app:edit_post' post.id %}">Edit</a>
-                    </p>
-                </li>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3>
+                            {{ post.date_added|date:'d M, Y H:i' }}| by
+                            {{ post.owner }}| 
+                            <small>
+                                <a href="{% url 'blog_app:edit_post' post.id %}">Edit</a>
+                            </small>
+                        </h3>
+                    </div>
+                </div>
+                <div class="panel-body">
+                    {{ post.text|linebreaks }}
+                </div>
             {% empty %}
-                <li>No posts have been added yet.</li>
+                No posts have been added yet.
             {% endfor %}
-        </ul>
+
 
         <a href="{% url 'blog_app:new_post' %}">Add a new post:</a>
 
