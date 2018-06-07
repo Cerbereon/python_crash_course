@@ -18,7 +18,7 @@
                     <div class="panel-heading">
                         <h3>
                             {{ post.date_added|date:'d M, Y H:i' }}| by
-                            {{ post.owner }}| 
+                            {{ post.owner }}|
                             <small>
                                 <a href="{% url 'blog_app:edit_post' post.id %}">Edit</a>
                             </small>
